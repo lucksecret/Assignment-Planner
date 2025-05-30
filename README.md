@@ -23,21 +23,3 @@ Aplikasi desktop sederhana. Kalkulator ini membantu menemukan suku ke-n dan juml
 
 ![My Application Screenshot](./Assets/screenshot.png)
 [Watch the Demo Video](./Assets/Demo.mp4)
-
-**Contoh Tampilan:**
-| Kalkulator Aritmatika dan Geometri |
-| [Barisan Aritmetika (Bulat)] |
-| Suku Pertama (a): [ input_a_arit ] |
-| Beda (b): [ input_b_arit ] |
-| Suku ke/Jumlah (n): [ input_n_arit ] |
-| [Hitung Semua] [Reset] |
-| U_n: - |
-| S_n: - |
-| |
-| [Barisan Geometri (Bulat)] |
-| Suku Pertama (a): [ input_a_geom ] |
-| Rasio (r): [ input_r_geom ] |
-| Suku ke/Jumlah (n): [ input_n_geom ] |
-| [Hitung Semua] [Reset] |
-| U_n: - |
-| S_n: - |
