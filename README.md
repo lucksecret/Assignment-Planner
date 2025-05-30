@@ -25,8 +25,8 @@ Aplikasi desktop sederhana yang dibangun menggunakan Python, Tkinter, dan pustak
 
 ## Cuplikan Layar (Screenshot)
 
-./Assets/screenshot.png
-./Assets/Demo.mp4
+![My Application Screenshot](./Assets/screenshot.png)
+(./Assets/Demo.mp4)
 
 **Contoh Tampilan:**
 | Kalkulator Aritmatika dan Geometri |
