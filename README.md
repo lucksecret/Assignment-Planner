@@ -19,7 +19,5 @@ Aplikasi desktop sederhana. Kalkulator ini membantu menemukan suku ke-n dan juml
     *   Menangani `TypeError` jika input tidak sesuai untuk operasi pangkat.
 *   **Fungsionalitas Reset:** Memungkinkan pengguna untuk menghapus kolom input dan hasil untuk bagian aritmatika dan geometri.
 
-##Screenshot
-
 ![My Application Screenshot](./Assets/screenshot.png)
 [Watch the Demo Video](./Assets/Demo.mp4)
