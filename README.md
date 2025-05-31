@@ -21,3 +21,5 @@ Aplikasi desktop sederhana. Kalkulator ini membantu menemukan suku ke-n dan juml
 
 ![My Application Screenshot](./Assets/screenshot.png)
 [Watch the Demo Video](./Assets/Demo.mp4)
+
+# Kevin
